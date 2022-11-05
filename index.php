@@ -17,3 +17,4 @@ try {
     echo 'Error: ' . $t->getMessage();
     echo '<br />';
 }
+echo 'Hello World';
